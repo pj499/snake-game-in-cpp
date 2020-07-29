@@ -46,7 +46,7 @@ void setup()
 void draw()
 {
     system("cls"); //call windows command to clear screen
-   cout<<endl<<endl<<endl<<"     ===== HAPPY NAGPANCHAMI MY SNAKE! ====="<<endl<<endl;
+ 
    //to print top wall of map
     for(int i=0;i<width+1;i++) 
         cout<<"=";
